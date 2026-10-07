@@ -42,7 +42,21 @@ Speech recordings are currently under review.
 
 
 
-Citation information will be added after publication.
+Fukuda, K., Takamichi, S. (2026) What Makes Us Hate Our Own Voice? Large-scale experiments on Playback–Imagery Gaps and Individual--Speech Feature Effects. Proc. Interspeech 2026, 3538–3542, doi: [10.21437/Interspeech.2026-973](https://doi.org/10.21437/Interspeech.2026-973).
+
+[Official paper page (ISCA Archive)](https://www.isca-archive.org/interspeech_2026/fukuda26_interspeech.html)
+
+```bibtex
+@inproceedings{fukuda26_interspeech,
+  title     = {{What Makes Us Hate Our Own Voice? Large-scale experiments on Playback–Imagery Gaps and Individual--Speech Feature Effects}},
+  author    = {Koki Fukuda and Shinnosuke Takamichi},
+  year      = {2026},
+  booktitle = {{Interspeech 2026}},
+  pages     = {3538--3542},
+  doi       = {10.21437/Interspeech.2026-973},
+  issn      = {2958-1796},
+}
+```
 
 
 
